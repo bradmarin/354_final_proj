@@ -1,0 +1,17 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    margin: 15px;
+}
+
+#map {
+    margin: 25px;
+}
+
+.row {
+    padding: 10px;
+}
